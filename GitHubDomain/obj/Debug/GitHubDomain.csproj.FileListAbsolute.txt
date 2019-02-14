@@ -1,0 +1,12 @@
+C:\Users\Bill\source\repos\GitHubAPI\GitHubDomain\bin\Debug\GitHubDomain.dll
+C:\Users\Bill\source\repos\GitHubAPI\GitHubDomain\bin\Debug\GitHubDomain.pdb
+C:\Users\Bill\source\repos\GitHubAPI\GitHubDomain\obj\Debug\GitHubDomain.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\GitHubAPI\GitHubDomain\obj\Debug\GitHubDomain.dll
+C:\Users\Bill\source\repos\GitHubAPI\GitHubDomain\obj\Debug\GitHubDomain.pdb
+C:\Users\Bill\source\repos\GitHubAPI\GitHubDomain\obj\Debug\GitHubDomain.csprojAssemblyReference.cache
+C:\Code\githubApi\GitHubDomain\bin\Debug\GitHubDomain.dll
+C:\Code\githubApi\GitHubDomain\bin\Debug\GitHubDomain.pdb
+C:\Code\githubApi\GitHubDomain\obj\Debug\GitHubDomain.csprojAssemblyReference.cache
+C:\Code\githubApi\GitHubDomain\obj\Debug\GitHubDomain.csproj.CoreCompileInputs.cache
+C:\Code\githubApi\GitHubDomain\obj\Debug\GitHubDomain.dll
+C:\Code\githubApi\GitHubDomain\obj\Debug\GitHubDomain.pdb
